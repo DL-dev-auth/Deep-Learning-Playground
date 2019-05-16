@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-I like DevOps, learning new technology, now at GitHub. Sounds interesting. hmmmmmm!
+I like DeepLearning tech! Sounds interesting. hmmmmmm!
